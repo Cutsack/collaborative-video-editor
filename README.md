@@ -1,4 +1,4 @@
-# Collaborative Web-Based Video Editor (MVP)
+# Collaborative Web-Based Video Editor (MVP) (NOT READY FOR USE)
 
 A real-time collaborative video editing platform where multiple users can edit the same project simultaneously with live synchronization.
 
@@ -188,3 +188,4 @@ For issues and questions:
 - Create an issue in the repository
 - Check the API documentation
 - Review the test suite for usage examples
+
